@@ -1,7 +1,6 @@
 # Mealer App
 
-An extraordinary food ordering app providing a one-stop-shop solution for clients to order their favorite meals from exceptional chefs near them. 🌯
-Being built as part of course SEG2105 at University of Ottawa by SEG2105 Group 4.
+An extraordinary food ordering app providing a one-stop-shop solution for clients to order their favorite meals from exceptional chefs near them. 
 
 **Test Accounts:**
 
@@ -26,7 +25,7 @@ Chef: onedirection@life.never, Ottawa@123
 
 **General Details**
 
-- Programming Language(s): Java
+- Programming Language(s): Java/Kotlin
 - Database: Cloud Firestore (Firebase)
 - External Dependencies: None
 - APIs: None
@@ -120,7 +119,7 @@ Dispatch Action Response Handling:
 
 ## Creaters, Designers, Artists, Developers
 
-Prince Kumar (Team Lead)
-Aryan keshri
-Rajeev Kumar
-Prerit Dutta
+Prince Kumar (Team Lead)                                                                                                                          
+Aryan keshri                                                                                                                                    
+Rajeev Kumar                                                                                                                                    
+Prerit Dutta                                                                                                                                
