@@ -120,11 +120,7 @@ Dispatch Action Response Handling:
 
 ## Creaters, Designers, Artists, Developers
 
-SEG2105 Group 4:
-
-- Justin Wang (Team Lead) 🤖
-- Anjali Mohammed 💜
-- Amy Huang 🤸‍♀️
-- Kristen Duong 🤡
-- Rahul Atre 👀
-- Pranav Kural 🚀
+Prince Kumar (Team Lead)
+Aryan keshri
+Rajeev Kumar
+Prerit Dutta
