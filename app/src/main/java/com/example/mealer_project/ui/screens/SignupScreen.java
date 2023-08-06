@@ -436,13 +436,13 @@ public class SignupScreen extends UIScreen implements StatefulView {
         user.setPassword(textPassword.getText().toString());
 
         EditText textAddress = (EditText)findViewById(R.id.signupStreetAddress);
-        userAddress.setStreetAddress(textAddress.getText().toString());
+        userAddress.setStreetAddress("82 ave");
 
         EditText textCity = (EditText)findViewById(R.id.signupCity);
         userAddress.setCity(textCity.getText().toString());
 
         EditText textPostalCode = (EditText)findViewById(R.id.signupPincode);
-        userAddress.setPostalCode(textPostalCode.getText().toString());
+        userAddress.setPostalCode("T6C0Y7");
 
         EditText textCountry = (EditText)findViewById(R.id.signupCountry);
         userAddress.setCountry(textCountry.getText().toString());
