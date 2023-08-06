@@ -1,7 +1,7 @@
 # Mealer App
 
 An extraordinary food ordering app providing a one-stop-shop solution for clients to order their favorite meals from exceptional chefs near them. 🌯
-Being built as part of course SEG2105 at University of Ottawa by SEG2105 Group 4.
+
 
 **Test Accounts:**
 
